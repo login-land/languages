@@ -1,2 +1,2 @@
-# languages
-Languages supported by Login-Land
+# Login-Land Languages
+These are our currently supported languages.

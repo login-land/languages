@@ -1,1 +1,21 @@
+{
 
+    "languageCode": "de",
+    "languageName": "German",
+
+    "here": "hier",
+    "using": "mit",
+    "on": "auf",
+    "click": "Klicken Sie",
+
+    "greeting": "Hallo! 👋",
+    "loginAttempt": "Jemand hat soeben versucht, sich mit Ihrem Nutzerkonto anzumelden. Klicken Sie den Knopf um die Anmeldung zu authorisieren.",
+    "loginTo": "Anmelden zu",
+    "notYou": "Nicht Sie? Keine Sorge!",
+    "notYou2": "Wir lassen niemanden ohne den geheimen Link durch!",
+    "haveANiceDay": "Wir wünschen einen schönen Tag!",
+    "linkValidity": "Dieser Link ist gültig für 3 Minuten",
+    "havingIssues": "Haben Sie Probleme beim Anmelden?",
+    "request": "Dieser Anmeldeversuch kam von "
+
+}

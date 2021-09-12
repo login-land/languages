@@ -1,0 +1,21 @@
+{
+
+    "languageCode": "it",
+    "languageName": "Italian",
+
+    "here": "qui",
+    "using": "usando",
+    "on": "su",
+    "click": "Cliccare",
+
+    "greeting": "Ciao a tutti! 👋",
+    "loginAttempt": "C'è stato un recente tentativo di accesso al tuo account. Clicca il pulsante qui sotto per approvare il tuo login.",
+    "loginTo": "Accedi a",
+    "notYou": "Non sei tu? Non preoccupatevi!",
+    "notYou2": "Non lasceremo passare nessuno senza il link segreto.",
+    "haveANiceDay": "Buona giornata!",
+    "linkValidity": "Questo link è valido per 3 minuti",
+    "havingIssues": "Hai problemi con l'accesso?",
+    "request": "Questa richiesta è stata fatta da"
+    
+}

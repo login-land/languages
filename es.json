@@ -1,0 +1,20 @@
+{
+
+    "languageCode": "es",
+    "languageName": "Spanish",
+
+    "here": "aquíu",
+    "using": "utilizando",
+    "on": "en",
+    "click": "Haga clic",
+
+    "greeting": "¡Hola! 👋",
+    "loginAttempt": "Ha habido un intento reciente de inicio de sesión en su cuenta. Haga clic en el botón siguiente para aprobar su inicio de sesión.",
+    "loginTo": "Acceder a",
+    "notYou": "¿No eres tú? No te preocupes.",
+    "notYou2": "No dejaremos pasar a nadie sin el enlace secreto.",
+    "haveANiceDay": "¡Que tenga un buen día!",
+    "linkValidity": "Este enlace es válido durante 3 minutos",
+    "havingIssues": "Having issues logging in?",
+    "request": "Esta solicitud se hizo desde"
+}

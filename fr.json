@@ -1,0 +1,21 @@
+{
+
+    "languageCode": "fr",
+    "languageName": "French",
+
+    "here": "ici",
+    "using": "en utilisant",
+    "on": "sur",
+    "click": "Cliquez",
+
+    "greeting": "Hé là ! 👋",
+    "loginAttempt": "Une tentative récente de connexion à votre compte a eu lieu. Cliquez sur le bouton ci-dessous pour approuver votre connexion.",
+    "loginTo": "Connectez-vous à",
+    "notYou": "Pas vous? Ne vous inquiétez pas!",
+    "notYou2": "Nous ne laisserons personne passer sans le lien secret.",
+    "haveANiceDay": "Passez une bonne journée !",
+    "linkValidity": "Ce lien est valable pendant 3 minutes",
+    "havingIssues": "Vous avez des difficultés à vous connecter?",
+    "request": "Cette demande a été faite à partir de"
+
+}

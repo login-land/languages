@@ -1,0 +1,21 @@
+{
+
+    "languageCode": "en",
+    "languageName": "English",
+
+    "here": "hier",
+    "using": "mit",
+    "on": "auf",
+    "click": "Click",
+
+    "greeting": "Hey there! 👋",
+    "loginAttempt": "There was a recent login attempt to your account. Click the button below to approve your login.",
+    "loginTo": "Login to",
+    "notYou": "Not you? Don't worry!",
+    "notYou2": "We won't let anyone pass without the secret link.",
+    "haveANiceDay": "Have a nice day!",
+    "linkValidity": "This link is valid for 3 minutes",
+    "havingIssues": "Having issues logging in?",
+    "request": "This request was made from"
+
+}
